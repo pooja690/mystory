@@ -12,7 +12,4 @@
    :caption: विषय:
 
    first_story
-   अधीश
-   अधीश_का_घर_छोड़ना
-   अधीश_और_डॉक्टर_अशोक
-
+   adish/adish_index
