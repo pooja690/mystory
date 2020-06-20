@@ -9,9 +9,8 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: विषय:
+   :caption: Parts:
 
-   first_story
    अधीश
    अधीश_का_घर_छोड़ना
    अधीश_और_डॉक्टर_अशोक
