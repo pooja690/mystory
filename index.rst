@@ -12,4 +12,4 @@
    :caption: विषय:
 
    first_story
-   adish/adish_index
+   adhish/adhish_index
