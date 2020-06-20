@@ -4,7 +4,7 @@
 
 
 
-.. image:: 20200531121609.jpg
+.. image:: images/20200531121609.jpg
    :width: 200
    :height: 300
    :align: center
