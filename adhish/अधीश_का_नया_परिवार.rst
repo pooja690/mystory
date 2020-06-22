@@ -2,11 +2,10 @@
 *अधीश का नया परिवार*
 =================
 
-.. image:: images/20200531121609.jpg
-   :width: 200
-   :height: 300
-   :align: center
-
+ .. image:: images/20200531121609.jpg
+   :width: 200
+   :height: 300
+   :align: center
 
 | डॉक्टर रिद्धिमा अधीश से 
   आपका नाम क्या है ?
