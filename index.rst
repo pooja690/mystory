@@ -13,4 +13,4 @@
 
    first_story
    adhish/adhish_index
-   shayari/ehsaaso_k_panne_index
+   Shayari/ehsaaso_k_panne_index
